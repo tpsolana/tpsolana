@@ -2,7 +2,9 @@
 
 ## Basic Ecommerce Site (September 2024)
 - Designed a database schema for an online retailer and used an ERD to visualize this schema.
-- Created a skeleton website to interact with this database, allowing users to input data and receive reports about their data.
+  ![image](https://github.com/user-attachments/assets/9a50e7d5-f9ff-41a1-84bf-885486458542)
+- Allowed users to input a CSV files with cart, item, customer, list and order information.
+- Users could then generate reports of either customer, item, or list information.
 
 ## BONK! dApp (February 2025)
 - Utilizing the Solana dApp Scaffold I created a basic website that allowed the user to overlay a GIF over their image and receive a new GIF.
