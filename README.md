@@ -1,9 +1,10 @@
+# Tony Pennacchia
 # Projects
 
 ## Investment Portfolio Tracker (July 2024)
-- Utilized new front end techniques to design an engaging way to display the assets in a treasury.
+- Built an engaging front end that visually displayed a project's treasury assets.
+- Displayed a pie graph to visually show the weight of each asset utilizing JavaScript.
 - Utilized Coin Gecko's free API to fetch current asset prices.
-- Displayed a pie graph to visually show the weight of each asset.
 
 ## Basic Ecommerce Site (September 2024)
 - Designed a database schema for an online retailer and used an ERD to visualize this schema.
@@ -239,9 +240,9 @@
   </details>
 
 ## BONK! dApp (February 2025)
-- Utilizing the Solana dApp Scaffold I created a basic website that allowed the user to overlay a GIF over their image and receive a new GIF.
-- Then I hooked up the button to wait for a successful transaction through our website before outputting the gif for the user.
-- I also created a button that allowed the user to have a pre-programmed tweet about their experience sent to twitter.
+- Utilizing the Solana dApp Scaffold I created a website that allowed the user to overlay a GIF over their image and receive that new GIF.
+- I hooked this up to a button that prompted for a Solana transaction which output the gif for the user when successfully processed..
+- Created a button that allowed the user to have a pre-programmed tweet about their experience sent to twitter.
 
 ## Bowling Game (February 2025)
 - Basic bowling game made with Java for my Agile Software Development class.
@@ -260,6 +261,8 @@ https://github.com/jslovell/hfh-capstone
 # Education
 
 ## Bradley University | Computer Science (May 2025)
+
+Relevant Coursework:
 - Database Management Systems
 - Intro to Business Analytics
 - Agile Software Development
@@ -273,6 +276,4 @@ https://github.com/jslovell/hfh-capstone
 - **Microsoft Excel**: Completed Intro to Business Analytics which is focusing on teaching the basics of Excel. This knowledge was further utilized in my Artificial Intelligence building linear regression models.
 - **HTML/CSS**: Worked on the front-end for my senior capstone project with Habitat for Humanity. I did various front-end tasks from redesigning the website to implementing a new nav-bar that would be adaptive to their employees iPads.
 - **Java**: My Java experience comes from an Agile Programming course which taught heavily how to utilize Object Oriented Programming to perfection. I completed an array of projects in Java ranging from a simple bowling score calculator to a payroll system. While I am not very experienced I have a firm grasp on the fundamentals.
-- **JavaScript**: I was not formerly taught JavaScript however I have had exposure with it in some of my projects. I helped implement placing icons on a floor plan with my senior capstone project.
-
-**Developer Tools**: Git, VS Code, Visual Studio, PyCharm, IntelliJ, Eclipse, Anchor
+- **JavaScript**: I have  exposure with JavaScript in some of my projects. I implemented placing icons on a floor plan with my senior capstone project, and used it for some backend work on other projects as well.
